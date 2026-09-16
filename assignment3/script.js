@@ -3,7 +3,7 @@
 // ==========================================
 // Challenge 1 - Type Conversion
 // ==========================================
-
+ 
 let numberString = "25";
 
 let convertedNumber = Number(numberString);
